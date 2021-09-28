@@ -1,0 +1,41 @@
+Alonso Magdaleno, M. L., & García-García, J. (2014). Evaluación de la transparencia municipal en el Principado de Asturias. Auditoría Pública, 64, 75-86.
+
+Bannister, F., & Connolly, R. (2011). The Trouble with Transparency: A Critical Review of Openness in e-Government. Policy & Internet, 3(1), 158-187. https://doi.org/10/ds6tkc
+
+Brandusescu, A., Iglesias, C., Lämmerhirt, D., & Verhulst, S. (2019). Open data governance and open governance: Interplay or disconnect? World Wide Web Foundation. https://webfoundation.org/2019/02/open-data-governance-and-open-governance-interplay-or-disconnect/
+
+Brusca, I., & Montesinos, V. (2006). Are Citizens Significant Users of Government Financial Information? Public Money & Management, 26(4), 205-209. https://doi.org/10.1111/j.1467-9302.2006.00526.x
+
+Caba Pérez, C., López Hernández, A. M., & Rodríguez Bolívar, M. P. (2005). Citizens’ access to on-line governmental financial information: Practices in the European Union countries. Government Information Quarterly, 22(2), 258-276. https://doi.org/10.1016/j.giq.2005.02.002
+
+Clarke, A., & Francoli, M. (2014). What’s in a name? A comparison of ‘open government’ definitions across seven Open Government Partnership members. JeDEM - EJournal of EDemocracy and Open Government, 6(3), 248-266.
+
+De Veaux, R. D., & Hand, D. J. (2005). How to Lie with Bad Data. Statistical Science, 20(3), 231-238. JSTOR.
+
+García-García, J., & Curto-Rodríguez, R. (2019). El ejercicio de la rendición de cuentas mediante portales de datos abiertos en las comunidades autónomas españolas. IDP. Revista de Internet, Derecho y Política, 29, 1-15. https://doi.org/10.7238/idp.v0i29.3182
+
+Gray, J. (2015). Open Budget Data: Mapping the landscape. Open Knowledge. http://www.fiscaltransparency.net/eng/resource_open_public.php?IdToOpen=20150902128
+
+Harrison, T. M., Guerrero, S., Burke, G. B., Cook, M., Cresswell, A., Helbig, N., Hrdinova, J., & Pardo, T. (2012). Open government and e-government: Democratic challenges from a public value perspective. Information Polity, 17(2), 83-97. https://doi.org/10.3233/IP-2012-0269
+
+Heald, D. (2012). Why is transparency about public expenditure so elusive? International Review of Administrative Sciences, 78(1), 30-49. https://doi.org/10/gcx5x2
+
+Huff, D. (1991). How to lie with statistics. Penguin.
+
+Lourenço, R. P. (2016). Evidence of an Open Government Data Portal Impact on the Public Sphere: International Journal of Electronic Government Research, 12(3), 21-36. https://doi.org/10.4018/IJEGR.2016070102
+
+Kahneman, D. (2012). Thinking, fast and slow. Penguin Books.
+
+Kasymova, J., Ferreira, M. A. M., & Piotrowski, S. J. (2016). Do Open Data Initiatives Promote and Sustain Transparency? A Comparative Analysis of Open Budget Portals in Developing Countries. En J. Zhang, L. F. Luna-Reyes, T. A. Pardo, & D. S. Sayogo (Eds.), Information, Models, and Sustainability (Vol. 20, pp. 137-155). Springer International Publishing. https://doi.org/10.1007/978-3-319-25439-5_7
+
+Meijer, A. (2013). Understanding the Complex Dynamics of Transparency. Public Administration Review, 73(3), 429-439. https://doi.org/10/f4xbkv
+
+Morozov, E. (2013). To save everything, click here: Technology, solutionism, and the urge to fix problems that don’t exist. Penguin UK.
+
+Robinson, M. (2006). Budget analysis and policy advocacy: The role of non-governmental public action (N.º 279; Working Paper Series). Institute of Development Studies. https://opendocs.ids.ac.uk/opendocs/handle/20.500.12413/4043
+
+Santini, R. M., & Carvalho, H. (2019). The rise of participatory despotism: A systematic review of online platforms for political engagement. Journal of Information, Communication and Ethics in Society, 17(4), 422-437. https://doi.org/10.1108/JICES-02-2019-0016
+
+van Helden, J., & Reichard, C. (2019). Making sense of the users of public sector accounting information and their needs. Journal of Public Budgeting, Accounting & Financial Management, 31(4), 478-495. https://doi.org/10.1108/JPBAFM-10-2018-0124
+
+Worthy, B. (2015). The Impact of Open Data in the UK: Complex, Unpredictable, and Political. Public Administration, 93(3), 788-805. https://doi.org/10/f7rr53
